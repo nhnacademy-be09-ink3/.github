@@ -19,7 +19,30 @@
 | ![](https://github.com/Jihyun3478.png?size=400) | ![](https://github.com/neamoo.png?size=150) | ![](https://github.com/dusk1006.png?size=150) | ![](https://github.com/Messier333.png?size=420) |
 | [이지현](https://github.com/Jihyun3478) | [이현수](https://github.com/neamoo) | [정인엽](https://github.com/Jihyun3478) | [최덕영](https://Messier333.com/neamoo) |
 
-### 팀 사진
+### 역할
+#### 권용민
+- 
+
+#### 김범준
+- 
+
+#### 김윤섭
+- 
+
+#### 이민후
+- 
+
+#### 이지현
+- 
+
+#### 이현수
+- 
+
+#### 정인엽
+- 
+
+#### 최덕영
+- 
 
 
 <br />
