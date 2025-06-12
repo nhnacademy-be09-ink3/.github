@@ -20,7 +20,17 @@ ink3에서 더 쉽고, 즐겁게 경험해보세요.
 
 ## 🤗 팀을 소개합니다!
 ### 우리 팀은 이렇게 협업해요!
-
+- [스크럼](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/5) 기반 스프린트 회의
+  - 매일 9시 데일리 스크럼
+  - 로테이션 스크럼 마스터
+  - [WBS](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/6) 작성
+- 매주 금요일 main 브랜치 배포
+  - 테스트 커버리지 측정
+- [프로젝트 규칙](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/1?pane=issue&itemId=108346363&issue=nhnacademy-be09-ink3%7CInk3%7C1) 기반 개발
+  - 브랜치 전략
+  - PR 전략
+  - Git Commit Convention
+<br />
 
 ### 팀원 소개
 | **Backend** | **Backend** | **Backend** | **Backend** |
@@ -30,6 +40,7 @@ ink3에서 더 쉽고, 즐겁게 경험해보세요.
 | **Backend** | **Backend** | **Backend** | **Backend** |
 | ![](https://github.com/Jihyun3478.png?size=400) | ![](https://github.com/neamoo.png?size=150) | ![](https://github.com/dusk1006.png?size=150) | ![](https://github.com/Messier333.png?size=420) |
 | [이지현](https://github.com/Jihyun3478) | [이현수](https://github.com/neamoo) | [정인엽](https://github.com/Jihyun3478) | [최덕영](https://Messier333.com/neamoo) |
+<br />
 
 ### 역할
 #### 권용민
