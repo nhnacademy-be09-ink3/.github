@@ -71,7 +71,9 @@ ink3에서 더 쉽고, 즐겁게 경험해보세요.
 
 ## ⚒️ 기술 스택
 ### 아키텍처 다이어그램
-<img width="1200" alt="스크린샷 2025-05-15 오전 11 16 44" src="https://github.com/user-attachments/assets/834b7a43-4e7d-4b9b-ba50-7d0d53142d36" />
+<img width="900" alt="스크린샷 2025-06-16 오후 7 16 18" src="https://github.com/user-attachments/assets/4c9b73f6-ead4-4990-8142-cb329ffdc2ed" />
+
 
 ### CI/CD 다이어그램
+<img width="907" alt="스크린샷 2025-06-16 오후 7 13 22" src="https://github.com/user-attachments/assets/d6de5e10-8ad0-48ea-a978-4facfb7512e1" />
 
