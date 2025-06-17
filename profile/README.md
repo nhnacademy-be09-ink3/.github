@@ -55,7 +55,7 @@ ink3에서 더 쉽고, 즐겁게 경험해보세요.
 #### 이민후
 - batch server
 - rabbit mq
-- coupon api
+- coupon api/front
 
 #### 이지현
 - 
