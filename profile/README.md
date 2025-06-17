@@ -67,7 +67,9 @@ ink3에서 더 쉽고, 즐겁게 경험해보세요.
 - 
 
 #### 최덕영
-- 
+- config server
+- ci/cd
+- 도서 api/front
 
 <br />
 
