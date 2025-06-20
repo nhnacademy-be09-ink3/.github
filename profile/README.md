@@ -44,10 +44,34 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 ### 역할
 #### 권용민
-- 
+- 인프라
+  - GitHub Action을 이용한 CI/CD 파이프라인 구축
+  - 무중단 배포를 위한 Shell Script 작성
+  - 마이크로 서버 Eureka 연결
+  - NginX 리버스 프록시 설정
+- DB 관리
+  - ERD 및 DDL 버전 관리
+- Shop Server(주문/결제)
+  - 주문 API
+    - 회원/비회원 주문 API 구현
+    - 주문 조회 API 구현
+    - 배송 API 구현
+    - 반품 API 구현
+    - 포장지 API 구현
+    - 상품 재고 및 포인트, 쿠폰 처리
+  - 결제 API
+    - 회원/비회원 결제 API 구현
+    - 토스 페이먼트 연동 
+    - PayType에 따른 Resolver를 활용한 페이먼트 확장 설계
+- Front Server 
+  - 주문서 작성 페이지 구현
+  - 주문 내역 페이지 구현 (주문 상세 페이지)
+  - 관리자 페이지 구현 (배송정책, 반품정책, 주문관리, 포장지관리 페이지)
+
 
 #### 김범준
 - 
+
 
 #### 김윤섭
 - CI/CD 구성
@@ -83,19 +107,24 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
   - 관리자 페이지 구현(회원 관리, 맴버십 관리, 포인트 정책 관리, 도서 카테고리 관리)
 - DB 인덱스 튜닝
 
+
 #### 이민후
 - batch server
 - rabbit mq
 - coupon api/front
 
+
 #### 이지현
 - 
+
 
 #### 이현수
 - 포인트 정책 API
 
+
 #### 정인엽
 - 
+
 
 #### 최덕영
 - config server
