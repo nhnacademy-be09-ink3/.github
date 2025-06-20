@@ -1,6 +1,6 @@
 # 📚 도서 쇼핑몰, **[ink3](https://ink3.shop/)**
-<img src='' width="600" height="450" />
-<br />
+<img width="1728" alt="스크린샷 2025-06-20 오후 12 05 43" src="https://github.com/user-attachments/assets/fee087e7-70c1-4959-a872-95f2339a64c5" />
+
 
 ## 💡 프로젝트 개요
 **ink3** 는 도서 쇼핑몰 서비스를 제공하는 웹 애플리케이션으로,<br />
