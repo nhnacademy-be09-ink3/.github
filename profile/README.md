@@ -19,7 +19,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 <br /><br />
 
 ## 🤗 팀을 소개합니다!
-### 우리 팀은 이렇게 협업해요!
+### 1️⃣ 우리 팀은 이렇게 협업해요!
 - [스크럼](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/5) 기반 스프린트 회의
   - 매일 9시 데일리 스크럼
   - 로테이션 스크럼 마스터
@@ -32,7 +32,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
   - Git Commit Convention
 <br />
 
-### 팀원 소개
+### 2️⃣ 팀원 소개
 | **Backend** | **Backend** | **Backend** | **Backend** |
 | :------: |  :------: |  :------: |  :------: |
 | ![](https://github.com/moooooooonlight.png?size=430) | ![](https://github.com/junopo.png?size=150) | ![](https://github.com/KastanEr.png?size=420) | ![](https://github.com/snackcookie.png?size=150) |
@@ -42,7 +42,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 | [이지현](https://github.com/Jihyun3478) | [이현수](https://github.com/neamoo) | [정인엽](https://github.com/Jihyun3478) | [최덕영](https://Messier333.com/neamoo) |
 <br />
 
-### 역할
+### 3️⃣ 역할
 #### 권용민
 - 인프라
   - GitHub Action을 이용한 CI/CD 파이프라인 구축
