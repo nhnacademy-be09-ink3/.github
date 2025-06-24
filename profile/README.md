@@ -18,12 +18,14 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 추후 SSO나 OAuth 연동까지 유연하게 대응할 수 있도록 설계했습니다.
 <br /><br />
 
+---
+
 ## 🤗 팀을 소개합니다!
 ### 1️⃣ 우리 팀은 이렇게 협업해요!
 - [스크럼](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/5) 기반 스프린트 회의
   - 매일 9시 데일리 스크럼
   - 로테이션 스크럼 마스터
-  - [WBS](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/6) 작성
+  - [WBS](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/6?filterQuery=label%3Atask) 작성
 - 매주 금요일 main 브랜치 배포
   - 테스트 커버리지 측정
 - [프로젝트 규칙](https://github.com/orgs/nhnacademy-be09-ink3/projects/3/views/1?pane=issue&itemId=108346363&issue=nhnacademy-be09-ink3%7CInk3%7C1) 기반 개발
@@ -41,6 +43,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 | ![](https://github.com/Jihyun3478.png?size=400) | ![](https://github.com/neamoo.png?size=150) | ![](https://github.com/dusk1006.png?size=150) | ![](https://github.com/Messier333.png?size=420) |
 | [이지현](https://github.com/Jihyun3478) | [이현수](https://github.com/neamoo) | [정인엽](https://github.com/Jihyun3478) | [최덕영](https://Messier333.com/neamoo) |
 <br />
+
 
 ### 3️⃣ 역할
 #### 🔴 권용민
@@ -179,6 +182,8 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 <br />
 
+---
+
 ## ⚒️ 기술 스택
 ### 아키텍처 다이어그램
 <img width="900" alt="스크린샷 2025-06-16 오후 7 16 18" src="https://github.com/user-attachments/assets/4c9b73f6-ead4-4990-8142-cb329ffdc2ed" />
@@ -187,3 +192,11 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 ### CI/CD 다이어그램
 <img width="907" alt="스크린샷 2025-06-16 오후 7 13 22" src="https://github.com/user-attachments/assets/d6de5e10-8ad0-48ea-a978-4facfb7512e1" />
 
+---
+
+## 마무리하며
+### 수료식 기념 팀원 전체 사진✨
+<img width="600" src="https://github.com/user-attachments/assets/83d8b02c-e962-4ade-8aa0-390055fe1479" />
+
+### TA님과도 찰칵!📷
+<img width="600" src="https://github.com/user-attachments/assets/bff0f2bf-4abc-412f-856e-aa63876c814e" />
