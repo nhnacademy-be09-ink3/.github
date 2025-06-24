@@ -193,7 +193,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 <img width="907" src="https://github.com/user-attachments/assets/d6de5e10-8ad0-48ea-a978-4facfb7512e1" />
 
 ### ERD
-<img width="900" src="[https://github.com/user-attachments/assets/4d8ef201-4dae-468f-8f81-3a9e3364aae9](https://github.com/user-attachments/assets/22072fb9-3515-4592-bb5d-013a8d694da0)" />
+<img width="900" src="https://github.com/user-attachments/assets/22072fb9-3515-4592-bb5d-013a8d694da0" />
 
 ---
 
