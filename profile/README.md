@@ -186,11 +186,14 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 ## ⚒️ 기술 스택
 ### 아키텍처 다이어그램
-<img width="900" alt="스크린샷 2025-06-16 오후 7 16 18" src="https://github.com/user-attachments/assets/4c9b73f6-ead4-4990-8142-cb329ffdc2ed" />
+<img width="900" src="https://github.com/user-attachments/assets/4c9b73f6-ead4-4990-8142-cb329ffdc2ed" />
 
 
 ### CI/CD 다이어그램
-<img width="907" alt="스크린샷 2025-06-16 오후 7 13 22" src="https://github.com/user-attachments/assets/d6de5e10-8ad0-48ea-a978-4facfb7512e1" />
+<img width="907" src="https://github.com/user-attachments/assets/d6de5e10-8ad0-48ea-a978-4facfb7512e1" />
+
+### ERD
+<img width="900" src="[https://github.com/user-attachments/assets/4d8ef201-4dae-468f-8f81-3a9e3364aae9](https://github.com/user-attachments/assets/22072fb9-3515-4592-bb5d-013a8d694da0)" />
 
 ---
 
