@@ -187,6 +187,7 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
   - 무중단 배포 쉘 스크립트 구현
   - nginx 리버스 프록시 구성
   - github action yml 파일 구성
+  - GitHub Secrets 기반 시크릿 관리 및 배포 시 환경변수 주입 자동화
 - 도서 api/front
   - 관리자 및 사용자용 도서 API 전반 개발
   - 도서 CRUD 및 조회 API 설계
@@ -197,6 +198,11 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
   -  Spring Batch 기반 배치 서버 구성
   -  운영 스케줄러 구성
   -  RabbitMQ + Batch Server 연동
+- infra
+  - 도메인(ink3.shop) 라우팅 설계 및 서브도메인 분리
+  - 내부망/외부망 분리 및 서비스 접근 경로 정리
+  - Docker로 인프라 구성(RabbitMQ/MinIO/MySql 등)
+  - 방화벽 규칙 설계 및 포트 최소화
 <br />
 
 ---
