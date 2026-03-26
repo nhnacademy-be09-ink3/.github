@@ -125,17 +125,22 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 #### 🟢 이민후
 - Coupon System
-  - 쿠폰 도메인 DB 설계 및 API 설계/구현
+  - 쿠폰 도메인 DB 및 API 설계/구현
   - 유저 쿠폰 발급 및 쿠폰함 조회 기능 구현
   - 관리자 쿠폰 관리 기능 구현 (발행 / 조회 / 수정 / 삭제)
-- Batch Server
-  - Welcome Coupon / Birthday Coupon 자동 발급 배치 구현
-  - 회원 등급 자동 업데이트 구현
+- Coupon Issuance System
+  - RabbitMQ 기반 비동기 처리 및 병렬 발급 구조 설계
+  - 사용자 대상 Chunk 단위 분할 처리로 대량 발급 성능 개선
+  - DLQ 및 Publisher Confirm을 통한 메시지 신뢰성 확보
+  - 발급 실패 로그 기반 오류 검출 및 예외 처리 로직 구현
+- Batch Processing
+  - 생일쿠폰 자동 발급 배치 시스템 구현
+  - 회원 등급 자동 업데이트 배치 구현
 - Message Queue
-  - RabbitMQ 연동을 통한 쿠폰 발급 비동기 처리
-  - 쿠폰 발급 병렬 처리 구조 설계 및 적용
-  - 발급 과정에서 발생하는 오류 검출 및 처리 로직 구현
-- Front Server
+  - RabbitMQ 연동 및 Producer / Consumer 구조 설계
+  - 메시지 직렬화/역직렬화 커스터마이징
+  - 쿠폰 유형별 Queue 분리 및 Topic Exchange 기반 라우팅 설계
+- Frontend
   - 유저 쿠폰 발급 및 쿠폰함 조회 페이지 구현
   - 관리자 쿠폰 관리 페이지 구현
 
